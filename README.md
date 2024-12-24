@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Enawramh
-- 👀 I’m interested in data science and statistics
-- 🌱 I’m currently learning machine learning 
+- Working as a Data Analyst, I Aspire to get a better grasp of data engineering best practice to shift my position to an analytics engineer first then a data engineer :)
 
 <!---
 Enawramh/Enawramh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
